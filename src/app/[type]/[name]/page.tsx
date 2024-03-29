@@ -1,0 +1,1 @@
+// detail page per pokemon
